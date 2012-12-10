@@ -531,3 +531,5 @@ Stopping/deleting the river
 
 	curl -XDELETE 'localhost:9200/_river/my_jdbc_river'
 
+
+.
